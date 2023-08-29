@@ -239,3 +239,8 @@
     color: #236197;
     text-decoration: none;
   }
+
+  .WeatherTemperature{
+    display: flex;
+    align-items: flex-start;
+  }

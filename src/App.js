@@ -7,7 +7,7 @@ function App() {
       <Weather defaultCity="Yangon"/>
       <footer>
         This project was coded by <a href='www.linkedin.com/in/phyu-sin-lin-186768256' target='_blank' rel='noreferrer'>Phyu Sin Lin</a> and is{" "}
-        <a href="https://github.com/oliviaphyu/weather-react-app" target="_blank" rel="noreferrer">open-sourced on GitHub</a>.
+        <a href="https://github.com/oliviaphyu/weather-react-app" target="_blank" rel="noreferrer">open-sourced on GitHub</a> and <a href="https://psl-react-weather-app.netlify.app/" target="_blank" rel="noreferrer">Netlify</a>.
       </footer>
     </div>
   );
